@@ -1,4 +1,4 @@
-[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
+[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/Deepjatt13/LEGENDBOT)
 
 
 <h1 align="center">
@@ -25,7 +25,7 @@
 
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGEND-AI/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/LEGENDBOT?"></a>
+    <a href="https://github.com/Deepjatt13/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/Deepjatt13/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Deepjatt13/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/Deepjatt13/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Deepjatt13/LEGENDBOT"></a><p align="left"><a href="https://github.com/Deepjatt13/LEGENDBOT?"></a>
 
 ------
 
